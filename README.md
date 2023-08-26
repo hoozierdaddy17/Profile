@@ -1,5 +1,5 @@
-# Profile
-Profile Stats
+# Hey! I am Sanjana🤘🏻
+I am a Development Enthusiast
 
 
 # 💻 Tech Stack:
