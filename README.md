@@ -16,5 +16,5 @@ I am a Development Enthusiast
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-[![](https://visitcount.itsvg.in/api?id=hoozierdaddy17&icon=0&color=10)](https://visitcount.itsvg.in)
+### Profile Views 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
