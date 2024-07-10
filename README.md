@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey! I am Sanjana, a Passionate Developer
 🔭 I’m currently working at Accenture<br>👯 I’m looking to collaborate on MERN Apps<br>🌱 I’m currently learning SpringBoot<br>⚡ Fun fact, I crack Dad Jokes effortlessly :D
 
 
